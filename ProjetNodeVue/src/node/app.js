@@ -16,4 +16,4 @@ App.route('/')
         })
     });
 // Le serveur ecoute le port 3030 de localhost
-App.listen(3030, () => console.log('Example app listening on port 3000!'));
+App.listen(3000, () => console.log('Example app listening on port 3000!'));
