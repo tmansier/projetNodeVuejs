@@ -7,7 +7,7 @@ import MovieDetails from './components/editdetails.vue'
 // Définition des routes du programme
 const routes = [
   { path: '/', component: Home },
-  { path: '/movie/add', component: MovieAdd }
+  { path: '/movie/add', component: MovieAdd },
   { path: '/movie/editdetails', component: MovieDetails },
 
 ]
